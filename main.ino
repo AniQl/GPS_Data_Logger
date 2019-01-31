@@ -28,7 +28,7 @@ void setup()
 	Serial.println();
 }
 
-void loop() // run over and over
+void loop()
 {
 	bool newdata = false;
 	unsigned long start = millis();
